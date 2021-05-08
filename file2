@@ -1,2 +1,6 @@
 Good bye! 123
+<<<<<<< HEAD
+git push
+=======
 New Line
+>>>>>>> d8d4815c337bdfd844f9917963e68d1c31723d94
